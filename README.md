@@ -2,9 +2,9 @@
 
 ---
 ## Coleções de NFT criados para testes
-(Coleção 1)[https://testnets.opensea.io/collection/nft-dio-teste]
+[Coleção 1](https://testnets.opensea.io/collection/nft-dio-teste)
 
-(Coleção 2)[https://testnets.opensea.io/collection/nft-dio]
+[Coleção 2](https://testnets.opensea.io/collection/nft-dio)
 ---
 ## Tecnologias utilizadas:
 ### [bwarelabs](https://bwarelabs.com/faucets)
